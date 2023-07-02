@@ -136,6 +136,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="App_Data\Sustainsys.Saml2.Tests.pfx" />
     <Content Include="App_Data\stubidp.sustainsys.com.cer" />
+    <Content Include="App_Data\Sustainsys.cer" />
     <None Include="NWebsecConfig\HttpHeaderSecurityModuleConfig.xsd">
       <SubType>Designer</SubType>
     </None>
